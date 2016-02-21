@@ -1,4 +1,4 @@
-name: OHmusic
+name: OH music
 favicon: null
 layout_spectrum: 0.9754673296120018
 typography_spectrum: 0.9289538522716612
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7892933662515134
-  lightness: 0.9804284912534058
-  saturation: 0.4890619912184775
-  rhythmicContrast: 0.8566639390774071
+    - '#ffffff'
+    - '#f09354'
+    - '#ed7a2c'
+    - '#fadeca'
+    - '#f3ac7b'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
