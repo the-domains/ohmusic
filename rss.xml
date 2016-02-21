@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[OHmusic]]></title>
-        <description><![CDATA[OHmusic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[OH Music]]></title>
+        <description><![CDATA[OH Music]]></description>
+        <link>https://thegrid.ai/ohmusic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 12:24:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 12:32:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ohmusic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to OH Music.</p>]]></description>
+            <link>https://thegrid.ai/ohmusic/5cad3a9e-b26d-4854-8c21-0d28b30fbfaa/index.html</link>
+            <guid isPermaLink="false">5cad3a9e-b26d-4854-8c21-0d28b30fbfaa</guid>
+            <pubDate>Sun, 21 Feb 2016 12:32:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a8efebf-8d63-4c01-9b63-65ceca36f717.gif">]]></description>
-            <link>undefined010e600e-d9cb-4e4d-927d-9d7b5a66f47b/index.html</link>
+            <link>https://thegrid.ai/ohmusic/010e600e-d9cb-4e4d-927d-9d7b5a66f47b/index.html</link>
             <guid isPermaLink="false">010e600e-d9cb-4e4d-927d-9d7b5a66f47b</guid>
             <pubDate>Sun, 21 Feb 2016 12:24:38 GMT</pubDate>
         </item>
